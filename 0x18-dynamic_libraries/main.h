@@ -3,12 +3,6 @@
 #define MAIN_H
 
 #include <stdio.h>
-=======
-#ifndef MAIN
-#define MAIN
-
-#include <stdlib.h>
->>>>>>> 2c9e07c3faa4981885713705c1e61b00a5603908
 
 int _putchar(char c);
 int _islower(int c);
@@ -38,7 +32,3 @@ int mod(int a, int b);
 extern div_t div(int __numer, int __denom);
 
 #endif /* MAIN_H */
-=======
-
-#endif
->>>>>>> 2c9e07c3faa4981885713705c1e61b00a5603908
