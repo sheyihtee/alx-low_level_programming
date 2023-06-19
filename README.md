@@ -1,1 +1,1 @@
-Diving into C language
+this is readme
